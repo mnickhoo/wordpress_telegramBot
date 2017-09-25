@@ -1,2 +1,0 @@
-
-Bad Request: inline keyboard expected

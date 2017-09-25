@@ -1,2 +1,0 @@
-
-Bad Request: can't parse inline keyboard button: Text buttons are unallowed in the inline keyboard

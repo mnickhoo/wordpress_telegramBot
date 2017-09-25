@@ -1,2 +1,0 @@
-
-Forbidden: bot is not a member of the channel chat
