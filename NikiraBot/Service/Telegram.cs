@@ -12,7 +12,7 @@ namespace NikiraBot.Service
         protected TelegramBotClient api { get { return getApi(); } }
         public TelegramBotClient getApi()
         {
-            TelegramBotClient api = new TelegramBotClient("354883167:AAHm6GwhYkPm6MlMkLRI7j8nLI1yZ0WY6hY");
+            TelegramBotClient api = new TelegramBotClient(""); //Not send you secret code bro
             return api;
         }
         public async Task<string> sendMessage(string chatId, string text)
